@@ -1,2 +1,7 @@
 # Fullstack_Opensource
-FullStack Development Assignments🔥 -The project contains easy, medium and hard assignments -Covered all the topics of MERN from Basics to Advance
+
+| <u>Timeline</u> | <u>Learnings</u>                                             | <u>Assignment/Projects</u>                                   |
+| --------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| Week-1          | ☑️ Basics of Javascript<br />☑️ Async, Await, Callbacks and Promises<br /> | ☑️ Easy LeetCode Problems<br />☑️ Calculator and TodoList using classes in JS |
+| Week-2          | ☑️ Deep-dive into express<br />☑️ Backend systems              | ☑️ TodoList using node.js<br />☑️ FileServer using node.js<br />☑️ Authentication server using node.js |
+|                 |                                                              |                                                              |
